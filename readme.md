@@ -1,1 +1,1 @@
-# some note for csharp
+# some notes for csharp
